@@ -221,18 +221,14 @@ b{
     .navbar-default.navbar-shrink .navbar-right {
         margin-top: 0;
     }
-
-    
 }
+
 
 @media (min-width: 1200px) {
     .language b{
         display:inline;
     }
 }
-
-
-
 
 
 
