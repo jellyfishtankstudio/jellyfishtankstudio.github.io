@@ -81,6 +81,10 @@ b{
     font-style:normal;
 }
 
+#about p{
+        font-size: 1em;
+}
+
  @media only screen and (min-width : 460px) {
      .company-name{
          font-size: 1em;
@@ -107,6 +111,10 @@ b{
         font-size: 38px;
        
     }
+
+      #about p{
+        font-size: 1.1em;
+    }
    
  }
 
@@ -115,6 +123,10 @@ b{
     .company-name{
         padding-bottom: 10px;
         font-size: .7em;
+    }
+
+    #about p{
+        font-size: 1.3em;
     }
     
     .slogan{
@@ -197,6 +209,8 @@ b{
         display:inline;
     }
 
+     
+
     .navbar-default.navbar-shrink {
         padding:5px 0px 0px 0px !important;
     }
@@ -227,6 +241,10 @@ b{
 @media (min-width: 1200px) {
     .language b{
         display:inline;
+    }
+
+    #about p{
+        font-size: 1.5em;
     }
 }
 
